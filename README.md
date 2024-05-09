@@ -1,9 +1,6 @@
 Goolgle MAP API sample
 =========
 
-Goolgle MAP API‚Å”CˆÓ‚ÌƒL[ƒ[ƒh‚Å‚ÌƒcƒC[ƒgˆê——‚ðŽæ“¾‚·‚éƒTƒ“ƒvƒ‹ƒR[ƒh
-‚±‚¿‚ç‚ÍWP‚ÌDB‚æ‚èŠe‹LŽ–‚ÌˆÜ“xEŒo“x(ƒJƒXƒ^ƒ€ƒtƒB[ƒ‹ƒh‚ðŽg—p)‚ðŽæ“¾‚µA‚»‚Ì‹LŽ––ˆ‚Éƒ}ƒbƒv‰æ‘œ‚ð•Û‘¶‚·‚éƒTƒ“ƒvƒ‹‚Å‚·B
+Goolgle MAP APIã§ä»»æ„ã®ã‚­ãƒ¼ãƒ¯ãƒ¼ãƒ‰ã§ã®ãƒ„ã‚¤ãƒ¼ãƒˆä¸€è¦§ã‚’å–å¾—ã™ã‚‹ã‚µãƒ³ãƒ—ãƒ«ã‚³ãƒ¼ãƒ‰
+ã“ã¡ã‚‰ã¯WPã®DBã‚ˆã‚Šå„è¨˜äº‹ã®ç·¯åº¦ãƒ»çµŒåº¦(ã‚«ã‚¹ã‚¿ãƒ ãƒ•ã‚£ãƒ¼ãƒ«ãƒ‰ã‚’ä½¿ç”¨)ã‚’å–å¾—ã—ã€ãã®è¨˜äº‹æ¯Žã«ãƒžãƒƒãƒ—ç”»åƒã‚’ä¿å­˜ã™ã‚‹ã‚µãƒ³ãƒ—ãƒ«ã§ã™ã€‚
 
-‚±‚¿‚ç‚Íƒ‰ƒCƒZƒ“ƒX‚ð–¾Ž¦‚µ‚Ü‚¹‚ñ(No Licesne)
-‘æŽOŽÒ‚É‚æ‚éƒ\[ƒXƒR[ƒh‚Ì•¡»EÄ”z•zE‰ü•Ï‚Í‹–‰Â‚³‚ê‚Ü‚¹‚ñB
-‚ ‚­‚Ü‚Åƒ\[ƒXƒR[ƒh‚ÌƒƒWƒbƒN‚ðƒAƒs[ƒ‹‚·‚é—p“r‚ÅŒöŠJ‚µ‚Ä‚¢‚Ü‚·B
